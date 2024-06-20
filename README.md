@@ -51,7 +51,7 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 
 ## 📫 How to reach me
 - [Email](mailto:gustavoallify@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gustavoallify)
+- [LinkedIn](https://www.linkedin.com/in/gustavo-allify/)
 
 - [Portfolio](https://gustavoallify.com)
 
