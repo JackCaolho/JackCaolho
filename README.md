@@ -17,8 +17,6 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 ![HMTL](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
-![T]()
-![T]()
 
 ### Data Extraction & Web Scraping
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
@@ -52,10 +50,10 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuNomeDeUsuario&theme=tokyonight)
 
 ## 📫 How to reach me
-- [Email](mailto:seu-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-perfil)
-- [Portfolio](https://seu-portfolio.com)
+- [Email](mailto:gustavoallify@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/gustavoallify)
+
+- [Portfolio](https://gustavoallify.com)
 
 ## 🧑‍💻 Projects
 Here are a few projects that highlight my skills and experience:
