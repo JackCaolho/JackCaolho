@@ -1,8 +1,9 @@
 
-## print("Hello word") 👋
+## print("Hello word")
 
 I'm a Data Analyst passionate about transforming raw data into actionable insights and visualizations. With expertise in data extraction, processing, and visualization, I help businesses make data-driven decisions.
 
+## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackCaolho&theme=tokyonight&layout=compact)
 
 ## 🔧 Technologies & Tools
@@ -46,18 +47,14 @@ I'm a Data Analyst passionate about transforming raw data into actionable insigh
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SeuNomeDeUsuario&theme=tokyonight)
 
 ## 📫 How to reach me
 - [Email](mailto:gustavoallify@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/gustavo-allify/)
-
 - [Portfolio](https://gustavoallify.com)
 
 ## 🧑‍💻 Projects
 Here are a few projects that highlight my skills and experience:
-- **Data Visualization Dashboard**: Created an interactive dashboard using Tableau to visualize sales data.
-- **Web Scraping Tool**: Developed a web scraping tool in Python using BeautifulSoup and Scrapy to collect data from e-commerce websites.
-- **ETL Pipeline**: Built an ETL pipeline using Apache Airflow to automate the data extraction, transformation, and loading process from multiple sources.
+- **Data Visualization Dashboard**:
+
 
